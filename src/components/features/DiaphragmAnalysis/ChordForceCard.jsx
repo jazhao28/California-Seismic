@@ -6,6 +6,7 @@ import Workflow from "./Workflow";
 import { MathJax } from "better-react-mathjax";
 import ChevronCard from "./ChevronCard";
 import { ChevronDown, ChevronUp } from "lucide-react";
+import chordFWorkflow from "./chordForceWorkflow";
 
 export default function ChordForceCard({load, diaphragmDepth, span}) {
 
